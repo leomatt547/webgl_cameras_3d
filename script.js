@@ -180,8 +180,6 @@ function cross(a, b) {
           a[0] * b[1] - a[1] * b[0]];
 }
 
-
-
 var m4 = {
 
   lookAt: function(cameraPosition, target, up) {
